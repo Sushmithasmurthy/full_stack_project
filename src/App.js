@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Game from './js/Game.js';
 import GroceryApp from './js/GroceryApp.js';
-import Soccer from './js/Soccer.js';
+//import Soccer from './js/Soccer.js';
 import Clock from './js/components/Clock.js';
 class App extends Component {
   render() {
